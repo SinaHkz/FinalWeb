@@ -40,6 +40,8 @@ html{
     border-radius: 20px;
     resize: 10px;
     background-color: rgba(170, 157, 255, 0.222);
+    color: white;
+    padding-left: 10px;
     
 }
 
@@ -53,8 +55,9 @@ html{
     
 }
 .inp1:hover{
-    color: rgba(170, 157, 255, 0.429);
+    background-color: rgba(170, 157, 255, 0.429);
     cursor: auto;
+    color: white;
 }
 
 .inp2text{
