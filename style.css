@@ -1,0 +1,99 @@
+/*Sina Hakimzadeh-40131857*/
+* {
+    margin: 0px;
+}
+
+body {
+    display: block;
+    background-image: linear-gradient(rgba(170, 157, 255, 1), rgb(90, 74, 163));
+}
+html{
+    height: 100%;
+}
+
+.div {
+    margin: 0px auto;
+    margin-top: 15%;
+    text-align: center;
+    height: 450px;
+    width: 350px;
+    border-radius: 20px;
+    background-image: linear-gradient(rgba(35, 28, 45, 0.899),rgba(35, 28, 45, 0.899));
+    padding: 7px;
+    box-shadow: 8px 8px 8px rgb(0,0,0,0.5)
+
+
+
+}
+
+.top_title{
+    align-items: center;
+    margin-top: 30px;
+    font-family:   "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: white;
+}
+.inp1{
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    border-radius: 20px;
+    resize: 10px;
+    background-color: rgba(170, 157, 255, 0.222);
+}
+
+.inp1text{
+    text-align: left;
+    font-family:   "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    color: white;
+    margin-left: 20px;
+}
+.inp1:hover{
+    color: rgba(170, 157, 255, 0.429);
+}
+
+.inp2text{
+    text-align: left;
+    font-family:   "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    color: white;
+    margin-left: 20px;
+}
+pre{
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: white;
+}
+.button{
+    border-radius: 100%;
+    display: inline-block;
+    padding: 6px;
+    margin: 0px auto;
+    color: rgba(170, 157, 255, 0.222);
+}
+.button:hover{
+    color: rgb(196, 187, 252);
+}
+
+li {
+    display: inline-block;
+    align-items: center ;
+
+}
+li{
+    padding-right:15px ;
+    margin: 0px auto;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.list{
+    display: inline-block;
+}
+.li2{
+    margin-left: 130px;
+}
