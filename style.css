@@ -15,7 +15,7 @@ html{
     margin: 0px auto;
     margin-top: 15%;
     text-align: center;
-    height: 450px;
+    height: 400px;
     width: 350px;
     border-radius: 20px;
     background-image: linear-gradient(rgba(35, 28, 45, 0.899),rgba(35, 28, 45, 0.899));
@@ -52,6 +52,7 @@ html{
 }
 .inp1:hover{
     color: rgba(170, 157, 255, 0.429);
+    cursor: auto;
 }
 
 .inp2text{
@@ -68,14 +69,17 @@ pre{
     color: white;
 }
 .button{
-    border-radius: 100%;
+    border-radius: 50%;
     display: inline-block;
-    padding: 6px;
+    padding-left: 10px ;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 10px;
     margin: 0px auto;
-    color: rgba(170, 157, 255, 0.222);
+    background-color: rgba(170, 157, 255, 1);
 }
 .button:hover{
-    color: rgb(196, 187, 252);
+    background-color: rgb(196, 187, 252);
 }
 
 li {
@@ -95,5 +99,5 @@ li{
     display: inline-block;
 }
 .li2{
-    margin-left: 130px;
+    margin-left: 110px;
 }
