@@ -40,6 +40,7 @@ html{
     border-radius: 20px;
     resize: 10px;
     background-color: rgba(170, 157, 255, 0.222);
+    
 }
 
 .inp1text{
@@ -49,6 +50,7 @@ html{
     margin-top: 20px;
     color: white;
     margin-left: 20px;
+    
 }
 .inp1:hover{
     color: rgba(170, 157, 255, 0.429);
@@ -94,10 +96,13 @@ li{
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     color: white;
 }
+ul{
+    padding-left: 0px;
+}
 
 .list{
     display: inline-block;
 }
 .li2{
-    margin-left: 110px;
+    margin-left: 130px;
 }
